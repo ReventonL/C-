@@ -1,0 +1,6 @@
+D:\C#\Study\Schelling’s Segregation Model\Schelling’s Segregation Model\bin\Debug\Schelling’s Segregation Model.exe.config
+D:\C#\Study\Schelling’s Segregation Model\Schelling’s Segregation Model\obj\Debug\Schelling’s Segregation Model.csprojResolveAssemblyReference.cache
+D:\C#\Study\Schelling’s Segregation Model\Schelling’s Segregation Model\bin\Debug\Schelling’s Segregation Model.exe
+D:\C#\Study\Schelling’s Segregation Model\Schelling’s Segregation Model\bin\Debug\Schelling’s Segregation Model.pdb
+D:\C#\Study\Schelling’s Segregation Model\Schelling’s Segregation Model\obj\Debug\Schelling’s Segregation Model.exe
+D:\C#\Study\Schelling’s Segregation Model\Schelling’s Segregation Model\obj\Debug\Schelling’s Segregation Model.pdb
